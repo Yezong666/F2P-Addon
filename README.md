@@ -9,3 +9,5 @@ Wave Only:
 -Put bosses always at the top of the page
 
 -Sort monsters from lowest to highest health automatically
+
+-Adds buttons for each monster in the wave to hide/show them
